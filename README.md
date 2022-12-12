@@ -14,3 +14,6 @@ Run steam as administrator this is so that steamservice.exe isn't loaded instead
 
 You must have an injector dll x86
 Then inject the bypass into steam.exe. After this you can start the VAC secured game
+
+### Next update
+Vac bypass inject dll
