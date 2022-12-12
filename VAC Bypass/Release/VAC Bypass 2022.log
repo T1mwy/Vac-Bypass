@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (VAC Bypass 2022.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Load.cpp
+C:\Users\every\Desktop\Work\VAC Bypass\Load.cpp(12,9): warning C4129: '/': unrecognized character escape sequence
+C:\Users\every\Desktop\Work\VAC Bypass\Load.cpp(14,9): warning C4129: '_': unrecognized character escape sequence
+  Hooks.cpp
+  Scanner.cpp
+  Generating code
+  97 of 102 functions (95.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\every\source\repos\VAC bypass and injector\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\every\source\repos\VAC bypass and injector\Release\detours.pdb'; linking object as if no debug info
+  VAC Bypass 2022.vcxproj -> C:\Users\every\source\repos\VAC bypass and injector\Release\VAC Bypass.dll
